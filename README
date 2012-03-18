@@ -1,0 +1,1 @@
+This script calculates podcast timestamps in IRC logs written by irclog2html.py (by Marius Gedminas, see http://mg.pov.lt/irclog2html/) relative to a given start and duration. It finally inserts them into the given HTML logs.
